@@ -32,13 +32,3 @@ Implements reusable UI components such as an **InputField** and **DataTable** wi
 ```bash
 git clone https://github.com/kinjall76/react-ui-assignment.git
 cd react-ui-assignment
-## 📸 Screenshots
-
-### Main App
-![App UI](./public/screenshots/app-ui.png)
-
-### InputField
-![Input Field](./public/screenshots/input-field.png)
-
-### Chromatic Deployment
-![Chromatic](./public/screenshots/chromatic.png)
