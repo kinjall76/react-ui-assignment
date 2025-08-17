@@ -8,21 +8,21 @@ Implements reusable UI components such as an **InputField** and **DataTable** wi
 ---
 
 ## 🚀 Features
-- **Reusable Components**: InputField, DataTable
-- **Search & Filter**: Live search through data table
-- **Row Selection**: Selectable table rows with checkboxes
-- **Styled with Tailwind CSS**: Responsive and modern UI
-- **Storybook Support**: Component documentation and preview
-- **Fast Development**: Powered by Vite
+- **Reusable Components**: InputField, DataTable  
+- **Search & Filter**: Live search through data table  
+- **Row Selection**: Selectable table rows with checkboxes  
+- **Styled with Tailwind CSS**: Responsive and modern UI  
+- **Storybook Support**: Component documentation and preview  
+- **Fast Development**: Powered by Vite  
 
 ---
 
 ## 🛠 Tech Stack
-- **React 18**
-- **TypeScript**
-- **Vite**
-- **Tailwind CSS**
-- **Storybook**
+- **React 18**  
+- **TypeScript**  
+- **Vite**  
+- **Tailwind CSS**  
+- **Storybook**  
 
 ---
 
@@ -32,7 +32,6 @@ Implements reusable UI components such as an **InputField** and **DataTable** wi
 ```bash
 git clone https://github.com/kinjall76/react-ui-assignment.git
 cd react-ui-assignment
-
 ## 📸 Screenshots
 
 ### Main App
