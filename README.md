@@ -1,4 +1,5 @@
 # React UI Assignment
+
 ## 🔗 Live Demo
 Check out the live Storybook here: [View on Chromatic](https://68a172212d1d272713acb80c-xyrrecians.chromatic.com/?path=/story/components-inputfield--default)
 
@@ -8,21 +9,21 @@ Implements reusable UI components such as an **InputField** and **DataTable** wi
 ---
 
 ## 🚀 Features
-- **Reusable Components**: InputField, DataTable  
-- **Search & Filter**: Live search through data table  
-- **Row Selection**: Selectable table rows with checkboxes  
-- **Styled with Tailwind CSS**: Responsive and modern UI  
-- **Storybook Support**: Component documentation and preview  
-- **Fast Development**: Powered by Vite  
+- **Reusable Components**: InputField, DataTable
+- **Search & Filter**: Live search through data table
+- **Row Selection**: Selectable table rows with checkboxes
+- **Styled with Tailwind CSS**: Responsive and modern UI
+- **Storybook Support**: Component documentation and preview
+- **Fast Development**: Powered by Vite
 
 ---
 
 ## 🛠 Tech Stack
-- **React 18**  
-- **TypeScript**  
-- **Vite**  
-- **Tailwind CSS**  
-- **Storybook**  
+- **React 18**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Storybook**
 
 ---
 
