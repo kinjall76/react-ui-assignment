@@ -1,4 +1,6 @@
 # React UI Assignment
+## 🔗 Live Demo
+Check out the live Storybook here: [View on Chromatic](https://68a172212d1d272713acb80c-xyrrecians.chromatic.com/?path=/story/components-inputfield--default)
 
 A frontend project built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Storybook**.  
 Implements reusable UI components such as an **InputField** and **DataTable** with search and selection functionality.
